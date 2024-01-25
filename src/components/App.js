@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './index.css';
+import '../index.css';
 
 import Logo from './Logo';
 import Form from './Form';
